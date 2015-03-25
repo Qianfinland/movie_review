@@ -124,7 +124,7 @@ GEM
       activemodel
       elasticsearch (>= 1)
       hashie
-    spring (1.3.2)
+    spring (1.3.3)
     sprockets (2.12.3)
       hike (~> 1.2)
       multi_json (~> 1.0)
@@ -161,7 +161,7 @@ DEPENDENCIES
   rails (= 4.1.7)
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
-  searchkick (~> 0.8.7)
+  searchkick
   spring
   sqlite3
   turbolinks

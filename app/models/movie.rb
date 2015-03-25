@@ -1,5 +1,6 @@
 class Movie < ActiveRecord::Base
   searchkick
+  Movie.reindex
   belongs_to :user
   has_many :reviews
 
