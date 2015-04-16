@@ -1,28 +1,7 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Movie Review is a website for writing reviews for movies. It includes below features:
+- Each movie has a picture, a average rating in star, brief information(title, description, length, director and rating number), multiple reviews with description and ratings in stars
+- A search  function for users to filter expected movies
+- Sign and Sign up
+- Carousel in home page to dynamically show popular movies
